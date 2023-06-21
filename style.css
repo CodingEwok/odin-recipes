@@ -1,6 +1,10 @@
-body {
-    font-family: Arial, Helvetica, sans-serif
+h1 {
+    color: rgb(92, 64, 40);
 }
-#title {
-    color: purple;
+body {
+    background-color:tan;
+    font-size: 18px;
+}
+body .tofu {
+    background-color: aqua;
 }
