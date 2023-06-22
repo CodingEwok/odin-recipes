@@ -1,7 +1,8 @@
-h1 {
-    color: rgb(92, 64, 40);
+h1, h2 {
+    color: rgb(71, 40, 4);
 }
 body {
     background-color:tan;
     font-size: 18px;
+    color: rgb(41, 26, 7);
 }
